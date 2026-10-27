@@ -1,0 +1,240 @@
+{
+  "checked_at": "2026-10-28T01:52:35+05:00",
+  "method": "Один ICMP-запрос с текущего компьютера, тайм-аут 900 мс. Не SLA и не доказательство доступности игры.",
+  "valve_revisions": {
+    "570": 1793064244,
+    "730": 1793064244
+  },
+  "endpoints": [
+    {
+      "name": "Cloudflare · контрольный узел",
+      "host": "1.1.1.1",
+      "source": "https://developers.cloudflare.com/1.1.1.1/ip-addresses/",
+      "note": "Публичный DNS / контроль интернета. Не игровой сервер.",
+      "resolved_ipv4": "1.1.1.1",
+      "icmp_result": "42.9 мс",
+      "replied": true
+    },
+    {
+      "name": "Fortnite · Германия",
+      "host": "ping-de.ds.on.epicgames.com",
+      "source": "https://www.epicgames.com/help/c-34254770/c-37371353/a22355516?lang=en-US",
+      "note": "Официальный ping endpoint Epic. IP определяется через DNS; дата-центр матча может отличаться.",
+      "resolved_ipv4": "3.66.90.162",
+      "icmp_result": "96.1 мс",
+      "replied": true
+    },
+    {
+      "name": "Fortnite · Франция",
+      "host": "ping-fr.ds.on.epicgames.com",
+      "source": "https://www.epicgames.com/help/c-34254770/c-37371353/a22355516?lang=en-US",
+      "note": "Официальный ping endpoint Epic. IP определяется через DNS; дата-центр матча может отличаться.",
+      "resolved_ipv4": "15.236.8.96",
+      "icmp_result": "103.3 мс",
+      "replied": true
+    },
+    {
+      "name": "Fortnite · Великобритания",
+      "host": "ping-gb.ds.on.epicgames.com",
+      "source": "https://www.epicgames.com/help/c-34254770/c-37371353/a22355516?lang=en-US",
+      "note": "Официальный ping endpoint Epic. IP определяется через DNS; дата-центр матча может отличаться.",
+      "resolved_ipv4": "18.133.101.207",
+      "icmp_result": "95.8 мс",
+      "replied": true
+    },
+    {
+      "name": "Fortnite · Бахрейн",
+      "host": "ping-bah.ds.on.epicgames.com",
+      "source": "https://www.epicgames.com/help/c-34254770/c-37371353/a22355516?lang=en-US",
+      "note": "Официальный ping endpoint Epic. IP определяется через DNS; дата-центр матча может отличаться.",
+      "resolved_ipv4": "34.18.144.86",
+      "icmp_result": "183.2 мс",
+      "replied": true
+    },
+    {
+      "name": "Fortnite · Мумбаи",
+      "host": "ping-mum.ds.on.epicgames.com",
+      "source": "https://www.epicgames.com/help/c-34254770/c-37371353/a22355516?lang=en-US",
+      "note": "Официальный ping endpoint Epic. IP определяется через DNS; дата-центр матча может отличаться.",
+      "resolved_ipv4": "3.110.24.16",
+      "icmp_result": "203.8 мс",
+      "replied": true
+    },
+    {
+      "name": "Fortnite · Токио",
+      "host": "ping-tok.ds.on.epicgames.com",
+      "source": "https://www.epicgames.com/help/c-34254770/c-37371353/a22355516?lang=en-US",
+      "note": "Официальный ping endpoint Epic. IP определяется через DNS; дата-центр матча может отличаться.",
+      "resolved_ipv4": "35.72.18.102",
+      "icmp_result": "256.6 мс",
+      "replied": true
+    },
+    {
+      "name": "Fortnite · Сидней",
+      "host": "ping-syd.ds.on.epicgames.com",
+      "source": "https://www.epicgames.com/help/c-34254770/c-37371353/a22355516?lang=en-US",
+      "note": "Официальный ping endpoint Epic. IP определяется через DNS; дата-центр матча может отличаться.",
+      "resolved_ipv4": "3.25.159.42",
+      "icmp_result": "375.7 мс",
+      "replied": true
+    },
+    {
+      "name": "Fortnite · Вирджиния",
+      "host": "ping-va.ds.on.epicgames.com",
+      "source": "https://www.epicgames.com/help/c-34254770/c-37371353/a22355516?lang=en-US",
+      "note": "Официальный ping endpoint Epic. IP определяется через DNS; дата-центр матча может отличаться.",
+      "resolved_ipv4": "44.192.142.31",
+      "icmp_result": "189.6 мс",
+      "replied": true
+    },
+    {
+      "name": "Fortnite · Техас",
+      "host": "ping-tx.ds.on.epicgames.com",
+      "source": "https://www.epicgames.com/help/c-34254770/c-37371353/a22355516?lang=en-US",
+      "note": "Официальный ping endpoint Epic. IP определяется через DNS; дата-центр матча может отличаться.",
+      "resolved_ipv4": "18.88.1.126",
+      "icmp_result": "207.5 мс",
+      "replied": true
+    },
+    {
+      "name": "Fortnite · Орегон",
+      "host": "ping-or.ds.on.epicgames.com",
+      "source": "https://www.epicgames.com/help/c-34254770/c-37371353/a22355516?lang=en-US",
+      "note": "Официальный ping endpoint Epic. IP определяется через DNS; дата-центр матча может отличаться.",
+      "resolved_ipv4": "44.230.113.121",
+      "icmp_result": "262.0 мс",
+      "replied": true
+    },
+    {
+      "name": "Fortnite · Сан-Паулу",
+      "host": "ping-sao.ds.on.epicgames.com",
+      "source": "https://www.epicgames.com/help/c-34254770/c-37371353/a22355516?lang=en-US",
+      "note": "Официальный ping endpoint Epic. IP определяется через DNS; дата-центр матча может отличаться.",
+      "resolved_ipv4": "15.228.25.138",
+      "icmp_result": "294.7 мс",
+      "replied": true
+    },
+    {
+      "name": "VALORANT · EU · диагностика",
+      "host": "162.249.72.1",
+      "source": "https://support.riotgames.com/en-us/valorant/connectivity/how-to-use-tracert-to-obtain-network-logs",
+      "note": "Riot публикует этот адрес для tracert. ICMP Echo может фильтроваться; это не адрес конкретного матча.",
+      "resolved_ipv4": "162.249.72.1",
+      "icmp_result": "Нет ICMP-ответа за 900 мс",
+      "replied": false
+    },
+    {
+      "name": "VALORANT · EU / восток России · диагностика",
+      "host": "13.248.220.97",
+      "source": "https://support.riotgames.com/en-us/valorant/connectivity/how-to-use-tracert-to-obtain-network-logs",
+      "note": "Riot публикует этот адрес для tracert. ICMP Echo может фильтроваться; это не адрес конкретного матча.",
+      "resolved_ipv4": "13.248.220.97",
+      "icmp_result": "93.5 мс",
+      "replied": true
+    },
+    {
+      "name": "VALORANT · Азия / Сингапур · диагностика",
+      "host": "151.106.248.1",
+      "source": "https://support.riotgames.com/en-us/valorant/connectivity/how-to-use-tracert-to-obtain-network-logs",
+      "note": "Riot публикует этот адрес для tracert. ICMP Echo может фильтроваться; это не адрес конкретного матча.",
+      "resolved_ipv4": "151.106.248.1",
+      "icmp_result": "Нет ICMP-ответа за 900 мс",
+      "replied": false
+    },
+    {
+      "name": "VALORANT · Корея · диагностика",
+      "host": "103.219.128.1",
+      "source": "https://support.riotgames.com/en-us/valorant/connectivity/how-to-use-tracert-to-obtain-network-logs",
+      "note": "Riot публикует этот адрес для tracert. ICMP Echo может фильтроваться; это не адрес конкретного матча.",
+      "resolved_ipv4": "103.219.128.1",
+      "icmp_result": "Нет ICMP-ответа за 900 мс",
+      "replied": false
+    },
+    {
+      "name": "VALORANT · Северная Америка · диагностика",
+      "host": "192.207.0.1",
+      "source": "https://support.riotgames.com/en-us/valorant/connectivity/how-to-use-tracert-to-obtain-network-logs",
+      "note": "Riot публикует этот адрес для tracert. ICMP Echo может фильтроваться; это не адрес конкретного матча.",
+      "resolved_ipv4": "192.207.0.1",
+      "icmp_result": "Нет ICMP-ответа за 900 мс",
+      "replied": false
+    },
+    {
+      "name": "VALORANT · Бахрейн · диагностика",
+      "host": "99.83.199.240",
+      "source": "https://support.riotgames.com/en-us/valorant/connectivity/how-to-use-tracert-to-obtain-network-logs",
+      "note": "Riot публикует этот адрес для tracert. ICMP Echo может фильтроваться; это не адрес конкретного матча.",
+      "resolved_ipv4": "99.83.199.240",
+      "icmp_result": "88.3 мс",
+      "replied": true
+    },
+    {
+      "name": "VALORANT · Мумбаи · диагностика",
+      "host": "75.2.66.166",
+      "source": "https://support.riotgames.com/en-us/valorant/connectivity/how-to-use-tracert-to-obtain-network-logs",
+      "note": "Riot публикует этот адрес для tracert. ICMP Echo может фильтроваться; это не адрес конкретного матча.",
+      "resolved_ipv4": "75.2.66.166",
+      "icmp_result": "86.3 мс",
+      "replied": true
+    },
+    {
+      "name": "CS2 / Dota 2 · Франкфурт · SDR",
+      "host": "155.133.226.68",
+      "source": "https://api.steampowered.com/ISteamApps/GetSDRConfig/v1/?appid=570",
+      "source_extra": "https://api.steampowered.com/ISteamApps/GetSDRConfig/v1/?appid=730",
+      "note": "Ретранслятор из конфигурации Valve для appid 570 и 730. Только ICMP-оценка маршрута: SDR использует UDP, TCP-порт 27015 здесь не проверяется.",
+      "resolved_ipv4": "155.133.226.68",
+      "icmp_result": "82.3 мс",
+      "replied": true
+    },
+    {
+      "name": "CS2 / Dota 2 · Стокгольм · SDR",
+      "host": "162.254.198.41",
+      "source": "https://api.steampowered.com/ISteamApps/GetSDRConfig/v1/?appid=570",
+      "source_extra": "https://api.steampowered.com/ISteamApps/GetSDRConfig/v1/?appid=730",
+      "note": "Ретранслятор из конфигурации Valve для appid 570 и 730. Только ICMP-оценка маршрута: SDR использует UDP, TCP-порт 27015 здесь не проверяется.",
+      "resolved_ipv4": "162.254.198.41",
+      "icmp_result": "96.8 мс",
+      "replied": true
+    },
+    {
+      "name": "CS2 / Dota 2 · Вена · SDR",
+      "host": "146.66.155.66",
+      "source": "https://api.steampowered.com/ISteamApps/GetSDRConfig/v1/?appid=570",
+      "source_extra": "https://api.steampowered.com/ISteamApps/GetSDRConfig/v1/?appid=730",
+      "note": "Ретранслятор из конфигурации Valve для appid 570 и 730. Только ICMP-оценка маршрута: SDR использует UDP, TCP-порт 27015 здесь не проверяется.",
+      "resolved_ipv4": "146.66.155.66",
+      "icmp_result": "105.8 мс",
+      "replied": true
+    },
+    {
+      "name": "CS2 / Dota 2 · Варшава · SDR",
+      "host": "155.133.230.116",
+      "source": "https://api.steampowered.com/ISteamApps/GetSDRConfig/v1/?appid=570",
+      "source_extra": "https://api.steampowered.com/ISteamApps/GetSDRConfig/v1/?appid=730",
+      "note": "Ретранслятор из конфигурации Valve для appid 570 и 730. Только ICMP-оценка маршрута: SDR использует UDP, TCP-порт 27015 здесь не проверяется.",
+      "resolved_ipv4": "155.133.230.116",
+      "icmp_result": "117.5 мс",
+      "replied": true
+    },
+    {
+      "name": "CS2 / Dota 2 · Сингапур · SDR",
+      "host": "103.10.124.116",
+      "source": "https://api.steampowered.com/ISteamApps/GetSDRConfig/v1/?appid=570",
+      "source_extra": "https://api.steampowered.com/ISteamApps/GetSDRConfig/v1/?appid=730",
+      "note": "Ретранслятор из конфигурации Valve для appid 570 и 730. Только ICMP-оценка маршрута: SDR использует UDP, TCP-порт 27015 здесь не проверяется.",
+      "resolved_ipv4": "103.10.124.116",
+      "icmp_result": "260.7 мс",
+      "replied": true
+    },
+    {
+      "name": "Overwatch · EU · диагностика Blizzard",
+      "host": "185.60.112.157",
+      "source": "https://eu.forums.blizzard.com/en/overwatch/t/welcome-to-the-technical-support-forum/33",
+      "note": "Официальный пост поддержки Blizzard рекомендует адрес для трассировки/pathping. Пост 2018 года; это диагностический узел, не гарантия текущего сервера матча.",
+      "resolved_ipv4": "185.60.112.157",
+      "icmp_result": "105.6 мс",
+      "replied": true
+    }
+  ]
+}
